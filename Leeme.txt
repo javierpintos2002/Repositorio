@@ -1,4 +1,5 @@
 Archivo: Leeme.txt
 Descripción: Se crea archivo inicial para probar los branch
 Descripción 2: Se agrega un cambio al master para confirmar un commit limpio
+Descripción 3m: Se agrega un cambio al master que conflictuara con el branch
 Linea: MASTER
