@@ -2,4 +2,5 @@ Archivo: Leeme.txt
 Descripción: Se crea archivo inicial para probar los branch
 Descripción 2: Se agrega un cambio al master para confirmar un commit limpio
 Descripción 3: Se agrega un cambio no confiable por lo que abre un branch
+Descripción 4: Se agrega un cambio no confiable se continua en un branch
 Linea: Branch1
